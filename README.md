@@ -13,3 +13,5 @@ If no /data then one will be created
 
 
 Minimap Locator Currently Locates the minimap in the lower left region of the CoD Caster screen
+
+Video.py is a more lightweight way of analyzing frame by frame without saving local copies
