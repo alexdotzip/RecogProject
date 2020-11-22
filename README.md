@@ -10,3 +10,6 @@ Run python module from same directory as main.py
 
 Frames should output to /data. 
 If no /data then one will be created
+
+
+Minimap Locator Currently Locates the minimap in the lower left region of the CoD Caster screen
